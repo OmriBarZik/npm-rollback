@@ -1,5 +1,5 @@
 {
-  "name": "npm-rallback",
+  "name": "npm-rollback",
   "version": "1.0.0",
   "description": "this rpeo is used as an exsample for how to rallback npm packages version",
   "main": "index.js",
