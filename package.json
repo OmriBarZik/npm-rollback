@@ -1,0 +1,19 @@
+{
+  "name": "npm-rallback",
+  "version": "1.0.0",
+  "description": "this rpeo is used as an exsample for how to rallback npm packages version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmriBarZik/npm-rallback.git"
+  },
+  "author": "Omri Bar-Zik <omri@bar-zik>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmriBarZik/npm-rallback/issues"
+  },
+  "homepage": "https://github.com/OmriBarZik/npm-rallback#readme"
+}
